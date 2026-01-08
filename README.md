@@ -1,6 +1,6 @@
 # Abrar Ahmed
 
-### Software Developer | Odoo Specialist
+### Software Engineer | Odoo Deve
 
 Experienced software engineer specializing in Odoo ERP development with expertise in building scalable business solutions and currently working at [Metamorphosis Ltd.](https://metamorphosis.com.bd).
 
@@ -53,20 +53,6 @@ Experienced software engineer specializing in Odoo ERP development with expertis
 - 🔹 Workflow Automation
 - 🔹 API Integration
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tian202014001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tian202014001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tian202014001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
