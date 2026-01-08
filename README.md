@@ -47,12 +47,12 @@ Experienced software engineer specializing in Odoo ERP development with expertis
 </p>
 
 ### Odoo Development
-🔹 Custom Module Development
-🔹 Business Logic Implementation
-🔹 XML View Templates
-🔹 Owl 2.0 JavaScript Framework
-🔹 Workflow Automation
-🔹 API Integration
+- Custom Module Development
+- Business Logic Implementation
+- XML View Templates
+- Owl 2.0 JavaScript Framework
+- Workflow Automation
+- API Integration
 
 
 ## 🤝 Connect With Me
