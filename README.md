@@ -1,6 +1,6 @@
 # Abrar Ahmed
 
-### Software Engineer | Odoo Deve
+### Software Engineer | Odoo Developer
 
 Experienced software engineer specializing in Odoo ERP development with expertise in building scalable business solutions and currently working at [Metamorphosis Ltd.](https://metamorphosis.com.bd).
 
